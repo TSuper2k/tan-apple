@@ -1,0 +1,17 @@
+.select2-container__choice{
+  background-color: black !important;
+}
+
+.image_detail_product, .feature_image{
+  width: 100%;
+  height: 130px;
+  object-fit: cover;
+}
+
+.container_image_detail, .feature_image_container{
+  margin-top: 20px;
+}
+
+.alert-danger{
+  padding: 3px 5px;
+}
